@@ -1,9 +1,9 @@
-import { Button } from '../components/ui/button'
+import { UserButton } from '@clerk/nextjs'
 export default function Home() {
   return (
     <>
       <p>Hello World</p>
-      <Button variant="default">Click Me</Button>
+      <UserButton />
     </>
   );
 }
