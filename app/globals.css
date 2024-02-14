@@ -71,7 +71,7 @@ body,
     --ring: 212.7 26.8% 83.9%;
   }
 
-  .theme-custom {
+  .custom {
     /* CSS: .bg-gradient { background: var(--gradient) } */
     --gradient: linear-gradient(to top left, #3d3393, #2b76b9, #2cacd1, #35eb93);
 
